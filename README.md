@@ -8,3 +8,8 @@ Anggota :
 
 ```
 ## 1.  Sebutkan web server yang digunakan pada "monta.if.its.ac.id"! 
+buka monta.if.its.ac.id
+lalu filter http
+pilih salah satu
+lalu cek servernya
+servernya nginx/1.10.3
