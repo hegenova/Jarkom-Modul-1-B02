@@ -13,3 +13,4 @@ Anggota :
 * pilih salah satu
 * lalu cek servernya
 * servernya nginx/1.10.3
+![Alt text](/image/Jarkom1-1.png "Gambar 1")
