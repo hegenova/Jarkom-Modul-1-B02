@@ -56,7 +56,7 @@ Anggota :
 ![Alt text](/image/Jarkom1-8.png)
 ![Alt text](/image/Jarkom1-8a.png)
 ![Alt text](/image/Jarkom1-8b.png)
-## Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
+## 9. Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
 * dari percakapan pada no.8, didapatkan kode 9002
 * gunakan tcp.srcport == 9002
 * follow salah satu paket
@@ -69,7 +69,7 @@ Anggota :
 ![Alt text](/image/Jarkom1-9c.png)
 ![Alt text](/image/Jarkom1-9d.png)
 ![Alt text](/image/Jarkom1-9e.png)
-## Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
+## 10. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
 * berdasarkan teka teki, didapatkan password : “nakano”
 * buka file flag.txt
 ![Alt text](/image/Jarkom1-10.png)
